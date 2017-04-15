@@ -1,0 +1,2 @@
+class PpcPduSerialInterface(object):
+	pass
